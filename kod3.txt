@@ -1,3 +1,5 @@
+/* Program zamienia liczbê w postaci dziesiêtnej  na liczb¹ w postaci rzymskiej */
+
 #include <iostream.h>
 #include <conio.h>
 
