@@ -1,3 +1,5 @@
+/* Zamiana funkcji z ogólnej na kanoniczn¹ oraz na odwrót */
+
 #include <iostream>
 #include <string>
 #include <math.h>
