@@ -1,4 +1,5 @@
 /* Program oblicza iloœæ liczb pierwszych w podanym przez u¿ytkownika zakresie */
+/* No jakaœ zmiana musi byæ :) */
 
 #include<iostream.h>
 #include<math.h>
